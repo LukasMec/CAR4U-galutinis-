@@ -1,0 +1,17 @@
+<resources>
+    <string name="activity1">Activity1</string>
+    <string name="pradžia">Pradžia</string>
+    <string name="Meniu" />
+    <string name="lytis">lytis</string>
+    <string name="vyras">vyras</string>
+    <string name="moteris">moteris</string>
+    <string name="kita">kita</string>
+    <string name="amzius">amzius</string>
+    <string name="turimasuma">turimasuma</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="pateikti">pateikti</string>
+       <string name="nav_header_desc">nav_header_desc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
