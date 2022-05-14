@@ -2,18 +2,20 @@ package com.example.myapplication;
 
 public class Question {
     public String questions[] = {
-            "Masina skirta vazinejimui:",
-            "Masinos dydis:",
+            "Transporto priemonė skirta",
+            "Automobilio dydis",
+            "Varomieji ratai",
+            "Prioritetas",
+            "Privalumas"
+
     };
 
     public String choices[][] = {
-            {"Kasdieniniam naudojimui", "Iki vieno tasko ir atgal", "Kelionems", "Retiems pasivazinejimams"},
-            {"Didelis(Dzipas, Pikapas)", "Vidutinis(Kupe, Sedanas)", "Mazas(Hecbekas)", "Labai mazas(Smart)"},
-    };
-
-    public String correctAnswer[] = {
-            "Kasdieniniam naudojimui",
-            "Didelis(Dzipas, Pikapas)",
+            {"Kasdieniniam naudojimui", "Nusigauti iki tam tikro taško(pvz: darbo)", "Kelionėms", "Retiems važiavimams"},
+            {"Didelis(Džipas, Pikapas)", "Vidutinis(Sedanas)", "Mažas(Hečbekas)", "Labai mažas"},
+            {"Priekiniai", "Galiniai", "Visi keturi", "Nėra skirtumo"},
+            {"Patogus salonas", "Graži išvaizda", "Greitis, galia", "Mažas kuro sunaudojimas"},
+            {"Varoma elektra arba hibridas", "Šildomos sėdynės", "Septynios ar daugiau sėdimų vietų", "-"}
     };
 
     public String getQuestion(int a){

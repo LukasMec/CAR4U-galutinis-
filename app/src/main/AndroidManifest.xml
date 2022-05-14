@@ -9,9 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/splashScreenTheme">
-        <activity
-            android:name=".Activity3"
-            android:exported="false" />
+
         <activity
             android:name=".Activity2"
             android:exported="false" />
