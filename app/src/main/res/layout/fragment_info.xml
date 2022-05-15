@@ -15,19 +15,19 @@
     <TextView
 
         android:layout_width="346dp"
-        android:layout_height="532dp"
+        android:layout_height="789dp"
         android:lines="17"
         android:maxLines="17"
-        android:text="SVEIKI! Mes esame Karolis Dirgėlas ir Lukas Mečionis. \ Kadangi mums , kaip ir daugumai kitų jaunuolių aštuoniolika metų sukanka 11-oje ar 12-oje klasėje ir didžioji dalis neturi daug žinių arba turi jų mažai apie transporto priemones, todėl sukūrėmė programėlę, kuri pagelbėtų tiek esamiems aštuoniolikmečiams, kuriems sunku išsirinkti jiems tinkamą pirmąją mašiną, tiek kitiems žmonėms, kurie abejoja, kaip turėtų atrodyti ir kokia turėtų būti jų mašina. \n
+        android:text="          SVEIKI! Mes esame Karolis Dirgėlas ir Lukas Mečionis. \ Kadangi mums , kaip ir daugumai kitų jaunuolių aštuoniolika metų sukanka 11-oje ar 12-oje klasėje ir didžioji dalis neturi daug žinių arba turi jų mažai apie transporto priemones, todėl sukūrėmė programėlę, kuri pagelbėtų tiek esamiems aštuoniolikmečiams, kuriems sunku išsirinkti jiems tinkamą pirmąją mašiną, tiek kitiems žmonėms, kurie abejoja, kaip turėtų atrodyti ir kokia turėtų būti jų mašina. \n
         Tikimes , kad ši programėlę pagelbės jums besirenkant automobilį.
 "
         android:textColor="@color/white"
 
-        android:textSize="22sp" />
+        android:textSize="21sp" />
 
     <ImageView
-        android:layout_width="380dp"
-        android:layout_height="1137dp"
+        android:layout_width="wrap_content"
+        android:layout_height="1025dp"
         android:src="@drawable/nuotrauka2" />
 
 </FrameLayout>
